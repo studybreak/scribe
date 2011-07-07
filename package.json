@@ -1,0 +1,12 @@
+{
+  "name": "node-scribe",
+  "description": "client for scribe server",
+  "version": "0.0.2",
+  "author": "corey olsen <corey@studybreak.com>",
+  "dependencies": {
+    "thrift": ">=0.6.0-1",
+  },
+  "keywords": ["scribe", "thrift", "nodejs", "log", "logging"],
+  "main": "lib",
+  "engines": { "node": ">= 0.1.93" }
+}
