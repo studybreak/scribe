@@ -3,10 +3,11 @@
   "description": "client for scribe server",
   "version": "0.0.2",
   "author": "corey olsen <corey@studybreak.com>",
+  "directories": ["lib"],
   "dependencies": {
     "thrift": ">=0.6.0-1",
   },
   "keywords": ["scribe", "thrift", "nodejs", "log", "logging"],
-  "main": "lib",
+  "main": "lib/scribe",
   "engines": { "node": ">= 0.1.93" }
 }
