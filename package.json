@@ -5,7 +5,7 @@
   "author": "corey olsen <corey@studybreak.com>",
   "directories": ["lib"],
   "dependencies": {
-    "thrift": ">=0.6.0-1",
+    "thrift": ">=0.6.0-1"
   },
   "keywords": ["scribe", "thrift", "nodejs", "log", "logging"],
   "main": "lib/scribe",
